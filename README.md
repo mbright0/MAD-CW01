@@ -1,2 +1,2 @@
-# MAD-CW
-All CW related to Mobile App Development 
+# MAD-InClass
+All InClass Activity related to Mobile App Development 
